@@ -2,8 +2,6 @@
 
 The Epilogue of Education is a CG Project story that defines the problems of education in our current society, and how we are far off from an actual smart world.
 
-<img width="1395" alt="The Epilogue of Education by ANIKETHAN N JOSHI." src="/Users/apple/Desktop/assd.png">
-
 ## Scene Breakdown
 1. Introduction Screen
 2. Preface/Summary
